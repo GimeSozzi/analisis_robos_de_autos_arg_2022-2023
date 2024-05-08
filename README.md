@@ -4,33 +4,31 @@ Este proyecto ofrece un análisis exhaustivo sobre los patrones de robo de autos
 
 ## Contenidos
 
-- `SegundaEntrega_SozziGimena.ipynb`: Notebook de Jupyter que contiene el análisis de datos y la generación de gráficos.
-- `SegundaEntrega_SozziGimena.pdf`: Presentación ejecutiva que resume los hallazgos y recomendaciones clave del análisis.
-- `README.md`: Documento que estás leyendo, que ofrece una visión general del proyecto, cómo configurarlo y ejecutarlo.
+El proyecto está organizado en dos carpetas principales:
+
+- `segunda_entrega_proyecto_final`:
+  - `SegundaEntrega_SozziGimena.ipynb`: Notebook de Jupyter que contiene el análisis de datos y la generación de gráficos.
+  - `SegundaEntrega_SozziGimena.pdf`: Presentación ejecutiva que resume los hallazgos y recomendaciones clave del análisis.
+  
+- `desafio_complementario_2_cross_validation`:
+  - `desafio_CrossValidation_SozziGimena.ipynb`: Notebook de Jupyter que contiene el análisis de datos, entrenamiento de modelos, aplicación de validación cruzada y la generación de gráficos para el desafío complementario Nro 2.
+
 
 ## Configuración e Instalación
 
-Para ejecutar este proyecto, necesitarás Python 3.6 o superior y las siguientes bibliotecas:
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- DateTime
-- Re
-- MissingNo
 
-Puedes instalar todas las dependencias necesarias ejecutando:
+Para ejecutar este proyecto, necesitarás Python 3.6 o superior. Todas las dependencias necesarias pueden ser instaladas ejecutando:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn datetime re missingno
-```
+pip install -r requirements.txt
+
 
 ## Cómo Ejecutar
 
-1. Clona este repositorio a tu máquina local.
-2. Abre el notebook `SegundaEntrega_SozziGimena.ipynb` utilizando Jupyter Notebook o Jupyter Lab.
-3. Ejecuta todas las celdas para ver el análisis y los gráficos generados.
+Clona este repositorio a tu máquina local.
+Navega a la carpeta del notebook que deseas ejecutar (según se indica en la sección de contenidos).
+Abre el notebook utilizando Jupyter Notebook o Jupyter Lab.
+Ejecuta todas las celdas para ver el análisis y los gráficos generados.
 
 ## Datos
 
