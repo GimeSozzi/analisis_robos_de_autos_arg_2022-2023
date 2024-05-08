@@ -21,7 +21,7 @@ Para ejecutar este proyecto, necesitarás Python 3.6 o superior. Todas las depen
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Cómo Ejecutar
 
