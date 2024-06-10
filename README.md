@@ -4,7 +4,7 @@ Este proyecto ofrece un análisis exhaustivo sobre los patrones de robo de autos
 
 ## Contenidos
 
-El proyecto está organizado en dos carpetas principales:
+El proyecto está organizado en tres carpetas principales:
 
 - `segunda_entrega_proyecto_final`:
   - `SegundaEntrega_SozziGimena.ipynb`: Notebook de Jupyter que contiene el análisis de datos y la generación de gráficos.
@@ -12,6 +12,16 @@ El proyecto está organizado en dos carpetas principales:
   
 - `desafio_complementario_2_cross_validation`:
   - `desafio_CrossValidation_SozziGimena.ipynb`: Notebook de Jupyter que contiene el análisis de datos, entrenamiento de modelos, aplicación de validación cruzada y la generación de gráficos para el desafío complementario Nro 2.
+
+- `entrega_proyecto_final`:
+  - `ProyectoFinal_DataScience_SozziGimena.ipynb`: Notebook de Jupyter que contiene el Proyecto Final del curso de Data Science.
+  - `EntregaProyectoFinal_SozziGimena.pdf`: Presentación ejecutiva del Proyecto Final del curso de Data Science.
+
+## Configuración e Instalación
+
+Para ejecutar este proyecto, necesitarás Python 3.6 o superior. Todas las dependencias necesarias pueden ser instaladas ejecutando:
+
+```bash
 
 
 ## Configuración e Instalación
