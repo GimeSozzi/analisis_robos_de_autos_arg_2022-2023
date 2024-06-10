@@ -22,14 +22,6 @@ El proyecto está organizado en tres carpetas principales:
 Para ejecutar este proyecto, necesitarás Python 3.6 o superior. Todas las dependencias necesarias pueden ser instaladas ejecutando:
 
 ```bash
-
-
-## Configuración e Instalación
-
-
-Para ejecutar este proyecto, necesitarás Python 3.6 o superior. Todas las dependencias necesarias pueden ser instaladas ejecutando:
-
-```bash
 pip install -r requirements.txt
 ```
 
